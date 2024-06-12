@@ -20,7 +20,15 @@
 
 // Qno :- 05) Write a for loop that prints numbers from 1 to 10.
 
+// for(let i = 1; i<=10; i++){
+//     console.log(i);
+// }
+
 // Qno :- 06) How do you create an infinite loop using the for loop?
+
+// for(let i = 0; i<=Infinity; i++){
+//     console.log(i)
+// }
 
 // Qno :- 07) How do you use a for loop to iterate over an array?
 
@@ -33,6 +41,12 @@
 // Qno :- 11) How do you skip the current iteration in a for loop?
 
 // Qno :- 12) Write a for loop that prints only the even numbers from 1 to 10.
+
+// for(let i=1; i<=10; i++){
+//     if(i%2 === 0){
+//         console.log(`${i} even number`)
+//     }
+// }
 
 // Qno:- 13) What happens if the condition in a for loop is always false?
 
