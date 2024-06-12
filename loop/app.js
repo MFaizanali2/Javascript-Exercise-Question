@@ -1,3 +1,4 @@
+                   // BASIC QUESTION
 
 // Qno :- 01) What is the syntax of a basic for loop in JavaScript?
 
