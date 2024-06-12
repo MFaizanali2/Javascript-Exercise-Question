@@ -34,6 +34,11 @@
 
 // Qno :- 08) Write a for loop that prints the elements of an array.
 
+// let array = ["red", "blue", "green", "pink", "yellow", "white"];
+// for(let i=0; i<=array.length; i++){
+//     console.log(array[i])
+// }
+
 // Qno :- 09) What will the following for loop print?
 
 // Qno :- 10) How can you break out of a for loop prematurely?
@@ -53,3 +58,8 @@
 // Qno:- 14) How can you use a for loop to iterate over a string?
 
 // Qno:- 15) Write a for loop that prints each character of a string.
+
+let myString = "Hello, world!, red, green, blue, white, purple";
+for(let i=0; i<=myString.length; i++){
+    console.log(myString[i])
+}
