@@ -16,7 +16,19 @@
 
 // Qno :- 03) What is the purpose of the condition in a for loop?
 
+// for(let i = 0; i<=5; i++){
+//     console.log(i)
+// }
+// here i<=5 is condition
+
 // Qno :- 04) How do you increment or decrement a loop variable in a for loop?
+
+// for(let i = 0; i<=5; i++){
+//     console.log(i)
+// }
+// for(let i = 5; i<=0; i--){
+//     console.log(i)
+// }
 
 // Qno :- 05) Write a for loop that prints numbers from 1 to 10.
 
@@ -59,7 +71,7 @@
 
 // Qno:- 15) Write a for loop that prints each character of a string.
 
-let myString = "Hello, world!, red, green, blue, white, purple";
-for(let i=0; i<=myString.length; i++){
-    console.log(myString[i])
-}
+// let myString = "Hello, world!, red, green, blue, white, purple";
+// for(let i=0; i<=myString.length; i++){
+//     console.log(myString[i])
+// }
