@@ -46,9 +46,18 @@
 
 // Qno:- 09) How can you find the length of an array?
 
+// let array = ["mango" , "apple", "banana", "liche"];
+// console.log(array.length)
+
 // Qno:- 10) Write code to iterate over an array and print each element?
 
+// let array = ["mango" , "apple", "banana", "liche"];
+// for(let i=0; i<=array.length; i++){
+//     console.log(array[i])
+// }
+
 // Qno:- 11) How do you check if a value is an array in JavaScript?
+
 
 // Qno:- 12) What is the difference between push() and unshift() methods?
 
