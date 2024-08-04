@@ -64,20 +64,20 @@
 // Qno:- 12) What is the difference between push() and unshift() methods?
 // let array = ["karachi", "lahore", "multan"];
 // console.log(array)
-// array.push("quetta"); push remove last element of array
-// array.unshift("quetta")
+// array.push("quetta");  push add last element of array
+// array.unshift("quetta") unshift add first element of an array
 // console.log(array)
 
 // Qno:- 13) What is the difference between pop() and shift() methods?
-let array = ["karachi", "lahore", "multan"];
-console.log(array);
-array.pop();
-console.log(array);
+// let array = ["karachi", "lahore", "multan"];
+// console.log(array);
+// array.pop();  pop remove last element of array
+// console.log(array);
 
-let array1 = ["karachi", "lahore", "multan"];
-console.log(array1);
-array1.shift();
-console.log(array1);
+// let array1 = ["karachi", "lahore", "multan"];
+// console.log(array1);
+// array1.shift(); shift remove first element of array
+// console.log(array1);
 
 
 // Qno:- 14) How do you concatenate two arrays?
