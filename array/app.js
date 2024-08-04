@@ -83,3 +83,6 @@
 // Qno:- 14) How do you concatenate two arrays?
 
 // Qno:- 15) How do you create an empty array?  
+
+// let array = [];
+// console.log(array)
