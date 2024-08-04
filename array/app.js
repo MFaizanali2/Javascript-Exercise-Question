@@ -57,8 +57,8 @@
 // }
 
 // Qno:- 11) How do you check if a value is an array in JavaScript?
-let array = ["karachi", "lahore", "multan"];
-console.log(array[0])
+// let array = ["karachi", "lahore", "multan"];
+// console.log(array[0])
 
 
 // Qno:- 12) What is the difference between push() and unshift() methods?
