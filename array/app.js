@@ -60,11 +60,11 @@
 
 
 // Qno:- 12) What is the difference between push() and unshift() methods?
-let array = ["karachi", "lahore", "multan"];
+// let array = ["karachi", "lahore", "multan"];
 // console.log(array)
-array.push("quetta");
+// array.push("quetta");
 // array.unshift("quetta")
-console.log(array)
+// console.log(array)
 
 // Qno:- 13) What is the difference between pop() and shift() methods?
 
