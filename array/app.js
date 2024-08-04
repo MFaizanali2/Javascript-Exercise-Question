@@ -69,6 +69,10 @@
 // console.log(array)
 
 // Qno:- 13) What is the difference between pop() and shift() methods?
+let array = ["karachi", "lahore", "multan"];
+console.log(array)
+// array.pop();
+
 
 // Qno:- 14) How do you concatenate two arrays?
 
