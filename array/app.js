@@ -80,16 +80,16 @@
 // console.log(array1);
 
 
-Qno:- 14) How do you concatenate two arrays?
-let fruit = ["apple", "mango", "banana", "kiwi"];
-console.log(fruit);
-let vegetable = ["carrot", "potato", "tomato", "onion"];
-console.log(vegetable)
+// Qno:- 14) How do you concatenate two arrays?
+// let fruit = ["apple", "mango", "banana", "kiwi"];
+// console.log(fruit);
+// let vegetable = ["carrot", "potato", "tomato", "onion"];
+// console.log(vegetable)
 
-let fruitsAndVegetables = fruit.concat(vegetable);
-console.log(fruitsAndVegetables);
+// let fruitsAndVegetables = fruit.concat(vegetable);
+// console.log(fruitsAndVegetables);
 
 
-Qno:- 15) How do you create an empty array?  
-let array = [];
-console.log(array)
+// Qno:- 15) How do you create an empty array?  
+// let array = [];
+// console.log(array)
